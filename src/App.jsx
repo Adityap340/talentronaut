@@ -13,7 +13,7 @@ function App() {
     <Router>
       <Navbar />
       <Routes>
-        <Route path="/ani1" element={<Ani1 />} />
+        <Route path="/" element={<Ani1 />} />
         <Route path="/ani2" element={<Ani2 />} />
       </Routes>
     </Router>
