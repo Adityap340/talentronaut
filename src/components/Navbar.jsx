@@ -8,7 +8,7 @@ const Navbar = () => {
     <nav className="bg-gray-800 p-4">
       <div className="container mx-auto flex justify-between items-center">
         <Link
-          to="/ani1"
+          to="/"
           className="text-white text-lg font-semibold transition-transform transform hover:scale-105"
         >
           Animation 1
